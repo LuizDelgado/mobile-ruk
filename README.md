@@ -19,18 +19,18 @@ consumindo uma **API GraphQL** construída em NestJS.
 
 O projeto utiliza:
 
--   Expo Router\
--   Apollo Client\
--   GraphQL Codegen\
--   React Hook Form + Zod\
--   NativeWind (Tailwind CSS)\
+-   Expo Router
+-   Apollo Client
+-   GraphQL Codegen
+-   React Hook Form + Zod
+-   NativeWind (Tailwind CSS)
 -   ESLint e Prettier
 
 Funcionalidades:
 
--   Registro de usuários\
--   Login\
--   Listagem e busca de usuários\
+-   Registro de usuários
+-   Login
+-   Listagem e busca de usuários
 -   Logout
 
 ------------------------------------------------------------------------
@@ -58,17 +58,17 @@ src/
 
 ## 🚀 Tecnologias Utilizadas
 
--   React Native\
--   Expo\
--   Expo Router\
--   NativeWind\
--   TypeScript\
--   GraphQL\
--   Apollo Client\
--   GraphQL Codegen\
--   React Hook Form\
--   Zod\
--   ESLint\
+-   React Native
+-   Expo
+-   Expo Router
+-   NativeWind
+-   TypeScript
+-   GraphQL
+-   Apollo Client
+-   GraphQL Codegen
+-   React Hook Form
+-   Zod
+-   ESLint
 -   Prettier
 
 ------------------------------------------------------------------------
@@ -93,5 +93,5 @@ npx expo start
 
 ## 📫 Contato
 
-- GitHub: https://github.com/LuizDelgado\
+- GitHub: https://github.com/LuizDelgado
 - LinkedIn: https://linkedin.com/in/luiz-delgado
