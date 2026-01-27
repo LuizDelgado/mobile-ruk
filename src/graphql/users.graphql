@@ -1,0 +1,23 @@
+query Me {
+  me {
+    id
+    name
+    email
+    created_at
+    modified_at
+    telephones {
+      area_code
+      number
+    }
+  }
+}
+
+query Users($search: String) {
+  users(search: $search) {
+    id
+    name
+    email
+    created_at
+    modified_at
+  }
+}
